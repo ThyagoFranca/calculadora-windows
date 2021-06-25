@@ -1,0 +1,59 @@
+/**
+*
+* Author: Thyago França
+* Version: 1.0
+*
+**/
+
+* {
+	padding: 0;
+	margin-top: 0;
+	box-sizing: border-box;
+}
+
+#calculadora {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+header h1 {
+	font-size: 25px;
+	color: #757575;
+}
+
+.main {
+	padding: 5px 5px;
+	width: 230px;
+	height: auto;
+	background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.main table {
+
+	width: 200px;
+	margin: 0 auto;
+    border-collapse: inherit;
+}
+
+.main .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 10px;
+    width: 45px;
+    height: 45px;
+}
+
+.main .btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    padding: 10px 10px;
+    width: 45px;
+    height: 45px;
+}
