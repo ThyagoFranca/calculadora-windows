@@ -2,5 +2,5 @@
 
 ## Calculadora
 <p align="center">
-    <img width="300px" height="auto" src="image/calculadora.png"/>
+    <img width="300px" height="auto" src="image/img-calculadora.png"/>
 </p>
