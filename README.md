@@ -1,3 +1,6 @@
 "Este projeto está licenciado sob os termos da licença MIT."
 
-<img src="calculadora.png" alt="calculadora"/>
+## Imagem
+<p align="center">
+    <img width="350px" height="auto" src="image/calculadora.png"/>
+</p>
